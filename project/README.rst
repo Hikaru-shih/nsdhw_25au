@@ -84,6 +84,9 @@ Follow the format to add your project:
 11. `3829penguin <https://github.com/3829penguin>`__ for
    `PCG-CP <3829penguin/README.rst>`__:
    https://github.com/3829penguin/PCG-CP
+12. `Hikaru-shih <https://github.com/Hikaru-shih>`__ for
+   `tiny-fouriertiny-fourier`__:
+   https://github.com/Hikaru-shih/tiny-fourier
 .. note::
 
   Append your project after the first example entry.  Do not delete the example
