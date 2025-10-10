@@ -85,8 +85,8 @@ Follow the format to add your project:
    `PCG-CP <3829penguin/README.rst>`__:
    https://github.com/3829penguin/PCG-CP
 12. `Hikaru-shih <https://github.com/Hikaru-shih>`__ for
-   `tiny-fourier <Hikaru-shih/README.rst>`__:
-   https://github.com/Hikaru-shih/tiny-fourier
+   `Fourier-Transform-Library <Hikaru-shih/README.rst>`__:
+   https://github.com/Hikaru-shih/Fourier-Transform-Library
    
 .. note::
 
